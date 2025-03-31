@@ -4,6 +4,7 @@ import random
 import numpy as np
 import pandas as pd
 from typing import List
+from sklearn.preprocessing import LabelEncoder
 
 from features import Features
 
